@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como a Inteligência Artificial (IA) impacta nosso dia a dia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 2 minutos é um projeto desenvolvido utilizando ferramentas de inteligência artificial. Seu tema principal é como a IA impacta nosso dia a dia e quais as previsões do futuro para essa tecnologia e os problemas que poderemos enfrentar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* IA Generativa [Copilot](https://copilot.microsoft.com/) para roteirização;
+* IA Generativa [ElevenLabs](https://elevenlabs.io/) para conversão de texto para fala;
+* IA Generativa [D-ID](https://www.d-id.com/) para sintetização de voz e geração de avatar virtual;
+* Site [Pixabay](https://pixabay.com/pt/videos/) para utilizar samples de vídeos;
+* Software [Adobe Premiere](https://www.adobe.com/products/premiere.html) para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Copilot para escrever e revisar o roteiro do vídeo.
+Depois utilizei o ElevenLabs para converter o roteiro para fala em um arquivo de áudio. Com esse arquivo de áudio gerei um avatar virtual na plataforma do D-ID, utilizando a versão trial. Fiz o download de alguns samples de vídeos para ilustrar o na hora da edição.
+
+Por fim utilizei o software Adobe Premiere para editar o vídeo, adicionando uma música de fundo e outros vídeos gratuitos para elucidar o tema principal.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é uma pequena amostra do poder das IA's, no qual foi gerado utilizando apenas ferramentas de inteligência artificial.
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/rd4RxYVlOII)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto, realizado em parceria com a [DIO](https://www.dio.me/users/devcaiada), representou um desafio incrível. Tive a oportunidade de experimentar diversas ferramentas de Inteligência Artificial e comprovar a sua eficácia.
 
-### Exemplos e Insigths
+Quem sabe o que o futuro nos reserva?
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+---
+
