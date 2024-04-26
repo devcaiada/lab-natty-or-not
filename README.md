@@ -26,7 +26,7 @@ O vídeo é uma pequena amostra do poder das IA's, no qual foi gerado utilizando
 Click na imagem!
 [![Watch the video](https://github.com/devcaiada/lab-natty-or-not/blob/main/images/capa-video.jpg?raw=true)](https://youtu.be/rd4RxYVlOII)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
 Este projeto, realizado em parceria com a [DIO](https://www.dio.me/users/devcaiada), representou um desafio incrível. Tive a oportunidade de experimentar diversas ferramentas de Inteligência Artificial e comprovar a sua eficácia.
 
